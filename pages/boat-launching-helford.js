@@ -80,8 +80,8 @@ export default function BoatyardServices() {
           without congestion. Within minutes of launching you can explore hidden
           creeks, sheltered anchorages and some of Cornwall's most beautiful
           coastline. On-site facilities include trailer storage, a dinghy and
-          tender park, moorings, experienced boatyard staff, winter boat storage,
-          customer toilets and ample car parking.
+          tender park, moorings, chandlery, experienced boatyard staff, winter
+          boat storage, customer toilets and ample car parking.
         </p>
 
         <h2>Location</h2>
