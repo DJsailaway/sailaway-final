@@ -50,7 +50,7 @@ export default function GillanCreekFerry() {
           <li>From the first of April to the end of October</li>
           <li>The ferry runs on demand - simply call us on 01326 231 357 or flip the sign down to call the ferryman</li>
           <li>Capacity is 6 people but we can simply return for larger parties</li>
-          <li>The cost is £5 per person; dogs and luggage travel free</li> 
+          <li>The cost is £5 per person; children under 5, dogs and luggage travel free</li> 
         </ul>
 
         <h2>Location</h2>
