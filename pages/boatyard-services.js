@@ -45,7 +45,8 @@ export default function BoatyardServices() {
         <p>
           We offer a range of boatyard services from our base at St Anthony on the Helford River, Cornwall.
           Whether you need gardianage, metalwork, GRP repairs, joinery, polishing, antifouling or general maintenance,
-          we provide a reliable and friendly service. Most of our work is bespoke, so call us to discuss your requirements.
+          we provide a reliable and friendly service. Most of our work is bespoke, so call us on 01326 231 357 to
+          discuss your requirements.
         </p>
 
         <h2>Ancilliary Services</h2>
