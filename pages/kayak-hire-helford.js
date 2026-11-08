@@ -98,7 +98,8 @@ export default function KayakHire() {
               Check availability
             </button>
           </a>
-        </div>
+               </div>
+      </div>
       </div>
     </>
   );
